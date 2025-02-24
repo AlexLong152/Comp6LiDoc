@@ -1,0 +1,11 @@
+ theta  dσ/dΩ [µbarns]  uncertainty
+  40.0      238.213137     3.934398
+  55.0      192.004254     3.642118
+  75.0      145.222396     1.742590
+  90.0      130.203881     4.066545
+ 110.0      136.442084     4.771334
+ 125.0      154.687846     5.798343
+ 145.0      184.156062     7.390781
+ 159.0      200.933684     8.310243
+Uncertainty listed here is an overestimate of uncertainty arrising from Ntotmax truncation
+Other uncertainties may contribute
